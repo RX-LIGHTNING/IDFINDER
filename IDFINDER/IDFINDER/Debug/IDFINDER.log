@@ -1,0 +1,4 @@
+﻿  IDFINDER.cpp
+C:\Users\Роман\source\repos\IDFINDER\IDFINDER\IDFINDER.cpp(15,9): warning C4101: restriction: неиспользованная локальная переменная
+C:\Users\Роман\source\repos\IDFINDER\IDFINDER\IDFINDER.cpp(14,9): warning C4101: result2: неиспользованная локальная переменная
+  IDFINDER.vcxproj -> C:\Users\Роман\source\repos\IDFINDER\Debug\IDFINDER.exe
